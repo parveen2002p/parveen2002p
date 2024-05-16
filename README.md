@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parveen</h1>
-<h3 align="center">A passionate FullStack Developer &#127470;&#127475</h3>
+<h3 align="center">A passionate FullStack Developer </h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveen2002p&label=Profile%20views&color=0e75b6&style=flat" alt="parveen2002p" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveen2002p&label=Profile%20views&color=0e75b6&style=flat" alt="parveen2002p" /> </p> -->
 ![Profile views](https://komarev.com/ghpvc/?username=parveen2002p&label=Profile%20views&color=0e75b6&style=flat)
 
 
