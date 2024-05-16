@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: white;
+    }
+  </style>
+</head>
+<body>
+
+
 <h1 align="center">Hi 👋, I'm Parveen</h1>
 <h3 align="center">A passionate FullStack Developer </h3>
 
@@ -14,3 +26,8 @@
 parveen2002p/parveen2002p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- Your content goes here -->
+
+</body>
+</html>
